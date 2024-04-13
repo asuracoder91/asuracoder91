@@ -1,4 +1,13 @@
-### Hi there 👋
+  <div align=center>
+  <h2>🔥 Flutter enthusiast 🔥</h2>
+  </div>
+
+### Interests
+- 😈 Dart / Flutter, Flame
+- 💻 Typescript / Next.js
+- 😌 Python
+- 🥚 Rust
+
 
 <!--
 **asuracoder91/asuracoder91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
