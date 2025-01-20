@@ -4,9 +4,8 @@
 
 ### Interests
 - 😈 Dart / Flutter, Flame
-- 💻 Typescript / Next.js
+- 💻 Typescript / React
 - 😌 Python
-- 🥚 Rust
 
 
 <!--
