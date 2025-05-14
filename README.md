@@ -4,7 +4,6 @@
 
 ### Interests
 - 😈 Dart / Flutter, Flame
-- 🦔 Let's go with Go
 - 💻 Typescript / React
 - 😌 Python
 
